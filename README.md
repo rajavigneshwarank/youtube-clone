@@ -15,7 +15,7 @@ This is a YouTube clone application built with React.js. It leverages the YouTub
 - **React.js** – JavaScript library for building user interfaces.
 - **YouTube Data API v3** – API to fetch video data, channels, and playlists.
 - **CSS** – For styling and layout.
-- **Axios** – For making API requests.
+- **Axios** – For making API requests..
 
 ## Installation
 
